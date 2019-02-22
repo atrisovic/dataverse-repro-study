@@ -8,7 +8,7 @@ import pickle
 
 # make a new directory to store the dataset
 # (if one doesn't exist)
-storage_path = "/n/regal/seltzer_lab/cscn/dataverse_data"
+storage_path = "~/storage/dataverse_data"
 
 if not os.path.exists(storage_path):   
 	os.makedirs(storage_path)
