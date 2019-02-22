@@ -2,3 +2,5 @@
 *.html
 *.csv
 doi--*
+*slurm.out
+*slurm.err
